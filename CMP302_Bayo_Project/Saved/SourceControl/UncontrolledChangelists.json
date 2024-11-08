@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Zakaria/Documents/Unreal Projects/CMP302_Bayo_Project/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Zakaria/Documents/Unreal Projects/CMP302_Bayo_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/V4/FA7U1RXFCJ7EPRX6F8T7DS.uasset",
+				"C:/Users/Zakaria/Documents/Unreal Projects/CMP302_Bayo_Project/Content/Characters/Bayo_Stuff/FinalBayoModel.uasset",
+				"C:/Users/Zakaria/Documents/Unreal Projects/CMP302_Bayo_Project/Content/Characters/Bayo_Stuff/Bayo_Anims/FrontDodge.uasset",
+				"C:/Users/Zakaria/Documents/Unreal Projects/CMP302_Bayo_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Zakaria/Documents/Unreal Projects/CMP302_Bayo_Project/Content/Characters/Bayo_Stuff/Bayo_Anims/RestPose.uasset",
+				"C:/Users/Zakaria/Documents/Unreal Projects/CMP302_Bayo_Project/Content/Characters/Bayo_Stuff/Bayo_Anims/BackDodge.uasset",
+				"C:/Users/Zakaria/Documents/Unreal Projects/CMP302_Bayo_Project/Content/Characters/Bayo_Stuff/Bayo_Anims/ExcessDodgeLanding.uasset",
+				"C:/Users/Zakaria/Documents/Unreal Projects/CMP302_Bayo_Project/Content/Characters/Bayo_Stuff/Bayo_Anims/ExcessDodgeJump.uasset",
+				"C:/Users/Zakaria/Documents/Unreal Projects/CMP302_Bayo_Project/Content/Characters/Bayo_Stuff/FinalBayoModel_PhysicsAsset.uasset",
+				"C:/Users/Zakaria/Documents/Unreal Projects/CMP302_Bayo_Project/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Zakaria/Documents/Unreal Projects/CMP302_Bayo_Project/Content/Characters/Bayo_Stuff/Bayo_Textures/bayomat_016_002.uasset",
+				"C:/Users/Zakaria/Documents/Unreal Projects/CMP302_Bayo_Project/Content/Characters/Bayo_Stuff/BP_Assorted/Dodge.uasset"
+			]
+		}
+	]
+}
